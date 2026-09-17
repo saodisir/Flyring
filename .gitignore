@@ -1,0 +1,5 @@
+# 安全网：本仓库只放分发文件，禁止任何源码进入 git 历史
+*
+!.gitignore
+!README.md
+!appcast.xml
