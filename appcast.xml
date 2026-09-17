@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+    <title>Flyring</title>
+    <link>https://github.com/saodisir/flyring</link>
+    <description>Flyring 更新源（手动检查）</description>
+    <item>
+        <title>Flyring 0.1.1</title>
+        <pubDate>Thu, 17 Sep 2026 12:27:08 -0000</pubDate>
+        <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        <enclosure url="https://github.com/saodisir/flyring/releases/download/v0.1.1/Flyring-0.1.1.dmg"
+                   sparkle:version="2"
+                   sparkle:shortVersionString="0.1.1"
+                   type="application/octet-stream"
+                   sparkle:edSignature="7horIkMBR8j5m0VWPHQFKU58BOj2khe/RVji32QS/Jx3DWlfz2SzHAyKIUxxfdtz9b/vJkR4ABw8hdo08gD7AQ=="
+                   length="3019737"/>
+    </item>
+</channel>
+</rss>
+
+<!-- sparkle-signatures:
+edSignature: PRLGIhBwr38iTHyEx9Nocnz1VlIkzyw4HKDECisxGxFhy1niGzPLSdkRyfkAlnDbyrTBtOImtWcS7UpKNRhBBQ==
+length: 911
+-->
