@@ -5,18 +5,6 @@
     <link>https://github.com/saodisir/flyring</link>
     <description>Flyring 更新源（手动检查）</description>
     <item>
-        <title>Flyring 0.1.2</title>
-        <pubDate>Fri, 18 Sep 2026 06:21:56 -0000</pubDate>
-        <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-        <description><![CDATA[<p>Flyring 0.1.2 更新内容：</p><ul><li>新增：网格面板的 App 名称显示方式可自定义（常驻图标下方 / 悬浮时显示），与环形、放射线面板行为统一</li><li>新增：注册与已激活页面说明激活码的 3 台 Mac 使用限制</li><li>修复：更新组件在部分环境下加载失败导致的启动崩溃</li><li>优化：整体稳定性提升</li></ul>]]></description>
-        <enclosure url="https://github.com/saodisir/flyring/releases/download/v0.1.2/Flyring-0.1.2.dmg"
-                   sparkle:version="5"
-                   sparkle:shortVersionString="0.1.2"
-                   type="application/octet-stream"
-                   sparkle:edSignature="N4G8BlXkIGR9CmuKx4vPpOEFGr4WvvSVML9FIyHa92aLer89Z5c4Kdpm87Alfidgw2YwBgvDQukynx+/h9/AAg=="
-                   length="3089133"/>
-    </item>
-<item>
         <title>Flyring 0.1.1</title>
         <pubDate>Thu, 17 Sep 2026 12:27:08 -0000</pubDate>
         <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -27,10 +15,11 @@
                    sparkle:edSignature="7horIkMBR8j5m0VWPHQFKU58BOj2khe/RVji32QS/Jx3DWlfz2SzHAyKIUxxfdtz9b/vJkR4ABw8hdo08gD7AQ=="
                    length="3019737"/>
     </item>
+
 </channel>
 </rss>
 
 <!-- sparkle-signatures:
-edSignature: 7hJvJlGjlOTM/pVkL3JCNGcM+D0fTc6x6VCQlUq5FKKgU7X9Zd4TWSAcK79eiHJ/RH34hmgB9N8Yb4c1GmmwDg==
-length: 1964
+edSignature: +BrIggWLyg0msIc+XipZWu1bMlNW6VEVC0nej00ZF2bF3HhwMipXZtS5FTCWh9Xif1+1q1GybgYDwdm9Ytd3DQ==
+length: 912
 -->
