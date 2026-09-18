@@ -23,11 +23,11 @@ macOS 菜单栏启动器 / 切换器。光标旁边弹出面板，用环形、�
 
 | 环形 | 网格 | 放射线 |
 |:---:|:---:|:---:|
-| ![环形](docs/screenshots/surface-ring.png) | ![网格](docs/screenshots/surface-grid.png) | ![放射线](docs/screenshots/surface-fingers.png) |
+| ![环形](docs/screenshots/surface-ring.jpg) | ![网格](docs/screenshots/surface-grid.jpg) | ![放射线](docs/screenshots/surface-fingers.jpg) |
 
 | 自定义面板 | 自定义 App |
 |:---:|:---:|
-| ![自定义面板](docs/screenshots/settings-custom.png) | ![自定义 App](docs/screenshots/settings-apps.png) |
+| ![自定义面板](docs/screenshots/settings-custom.jpg) | ![自定义 App](docs/screenshots/settings-apps.jpg) |
 
 ## 项目状态
 
