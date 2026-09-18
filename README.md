@@ -19,6 +19,16 @@ macOS 菜单栏启动器 / 切换器。光标旁边弹出面板，用环形、�
 - 悬停运行中 App 直接切换其窗口（需屏幕录制权限）
 - 自托管激活码，年费 / 买断双模式
 
+## 界面预览
+
+| 环形 | 网格 | 放射线 |
+|:---:|:---:|:---:|
+| ![环形](docs/screenshots/surface-ring.png) | ![网格](docs/screenshots/surface-grid.png) | ![放射线](docs/screenshots/surface-fingers.png) |
+
+| 自定义面板 | 自定义 App |
+|:---:|:---:|
+| ![自定义面板](docs/screenshots/settings-custom.png) | ![自定义 App](docs/screenshots/settings-apps.png) |
+
 ## 项目状态
 
 当前处于 **Beta 测试**阶段：
@@ -30,7 +40,7 @@ macOS 菜单栏启动器 / 切换器。光标旁边弹出面板，用环形、�
 
 最新版见 [Releases](https://github.com/saodisir/flyring/releases)。
 
-> 当前分发版使用开发证书签名、尚未经过 Apple 公证。首次打开若被 Gatekeeper 拦截，请右键「打开」或在「系统设置 → 隐私与安全性」中允许。正式公证版上线后会另行通知。
+> 分发版使用 Developer ID 签名并通过 Apple 公证，首次打开由 Gatekeeper 直接放行。
 
 ## 价格（正式版计划）
 
